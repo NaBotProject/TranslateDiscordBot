@@ -14,3 +14,10 @@ And in the discord, deliver the text as follows:
 first lang     second lang
 your text
 ```
+
+For example, converting English to French:
+```
+en fr
+hi
+```
+
