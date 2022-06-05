@@ -2,6 +2,7 @@
 You can translate sentences from one language to another.
 
 An .env file Make and put a token in it.
+
 you can make a token from 
 https://discord.com/developers/applications
 
