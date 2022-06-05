@@ -3,7 +3,7 @@ You can translate sentences from one language to another.
 
 An .env file Make and put a token in it.
 you can make a token from 
-https://discord.com/developers/applications/889901645830455357/information
+https://discord.com/developers/applications
 
 ```
 TOKEN = your bot token
